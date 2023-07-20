@@ -1,0 +1,26 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.22:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:14:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:14:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:14:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:14:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:14:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:14:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:17:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:17:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:17:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:17:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:17:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:17:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:17:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:17:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'vivo', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Impressive 👍. Go for it....'}, {'Product': 'vivo', 'Name': 'Gajendran Parthiban', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': "The mobile is very good looking.. It's performance okay.. camera also good in this price range.."}, {'Product': 'vivo', 'Name': 'Saroj Kumari', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Performance battery camera everything is good 👍'}, {'Product': 'vivo', 'Name': 'Kunal Pratap Singh ', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Only charging is slow other wise all features are good camera 📸 4.5'}, {'Product': 'vivo', 'Name': 'Sandeep kumar', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'I like this mobile 😊'}, {'Product': 'vivo', 'Name': 'Biswajit Sahoo', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'I appreciate Flipkart for offering this mobile phone at an affordable price, which suits both me and other customers. The camera quality is excellent, providing impressive images, and the audio performance for music is top-notch. The battery capacity exceeds expectations, offering long-lasting usage. Additionally, the display quality is commendable. In my opinion, Vivo consistently delivers exceptional smartphones.❤️'}, {'Product': 'vivo', 'Name': 'Noshad  Ali', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Beautiful phone📱 camera is good'}, {'Product': 'vivo', 'Name': 'Shivam Kumar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'This is best smartphone I like camera and  battery back up'}, {'Product': 'vivo', 'Name': 'Rajiv  Yadav', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Good performance'}, {'Product': 'vivo', 'Name': 'Chandan Kumar', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Nice'}, {'Product': 'vivo', 'Name': 'Chandan Kumar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice'}]
+INFO:root:name 'client' is not defined
+INFO:werkzeug:172.18.0.2 - - [20/Jul/2023 13:18:02] "POST /review HTTP/1.1" 200 -
